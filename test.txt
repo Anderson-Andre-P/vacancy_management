@@ -1,0 +1,7 @@
+{
+    "name": "Anderson Andre Pereira Eleuterio",
+    "username": "Andershow Dev",
+    "email": "eleu@gmail.com",
+    "password": "12345",
+    "description": "The best full stack developer"
+}
